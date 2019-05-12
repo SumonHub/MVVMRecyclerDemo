@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="viewBg">#f1f5f8</color>
+    <!-- Google Logo Color
+    google_cyan
+
+
+
+    Lime
+    -->
+    <color name="google_cyan">#006978</color>
+    <color name="google_teal">#009688</color>
+    <color name="google_green">#4caf50</color>
+    <color name="google_blue_grey">#607d8b</color>
+</resources>
